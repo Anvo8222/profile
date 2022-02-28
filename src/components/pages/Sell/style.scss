@@ -1,0 +1,11 @@
+@import "./Header/style.scss";
+
+$text-color: #6d5347;
+$button-color: #8b7158;
+$text-white-color: #fff;
+@mixin webkitline {
+  display: block;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

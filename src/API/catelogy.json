@@ -1,0 +1,20 @@
+{
+    "catelogys":[
+        {
+            "id":1,
+            "name":"Áo Nữ"
+        },
+        {
+            "id":2,
+            "name":"Quần Nữ"
+        },
+        {
+            "id":3,
+            "name":"Sản Phẩm Khác"
+        },
+        {
+            "id":4,
+            "name":"Phân Loại"
+        }
+    ]
+}

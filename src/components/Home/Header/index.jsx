@@ -7,7 +7,8 @@ index.propTypes = {
 };
 function index(props) {
     return (
-        <header className="header">
+        <div className="container">
+            <header className="header header__profile">
             <div className="header__avatar">
                 <img src={avatar} alt="Avatar của An nè" className="header__img" />
             </div>
@@ -23,19 +24,19 @@ function index(props) {
                             <li>
                                 <span>FaceBook</span>
                                 
-                                <a href="https://facebook.com/thaian02012k">
+                                <a href="https://facebook.com/thaian02012k" target="facebook">
                                     <i class="fa-brands fa-facebook icon"></i>
                                 </a>
                             </li>
                             <li>
                                 <span>Linkedin</span>
-                                <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-an-70a741229/">
+                                <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-an-70a741229/" target="linkedin">
                                     <i class="fa-brands fa-linkedin icon"></i>
                                 </a>
                             </li>
                             <li>
                                 <span>Github</span>
-                                <a href="https://github.com/Anvo8222">
+                                <a href="https://github.com/Anvo8222" target="github">
                                 <i class="fa-brands fa-github icon"></i>
                                 </a>
                             </li>
@@ -61,6 +62,7 @@ function index(props) {
 
             </div>
         </header>
+        </div>
     );
 }
 

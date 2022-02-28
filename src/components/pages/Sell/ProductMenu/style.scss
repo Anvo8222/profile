@@ -1,0 +1,23 @@
+.productMenu {
+  margin-top: 20px;
+  .productMenu__group {
+    list-style: none;
+    margin: 0 auto;
+    text-align: center;
+    .productMenu__item {
+      display: inline-block;
+      margin-right: 10px;
+      padding: 0 10px;
+    }
+    .productMenu__link {
+      text-decoration: none;
+      display: inline-block;
+      font-size: 1.4rem;
+    }
+    .productMenu__link.active {
+      font-weight: bold;
+    }
+    .productMenu__link {
+    }
+  }
+}

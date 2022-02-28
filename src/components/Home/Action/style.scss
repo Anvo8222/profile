@@ -40,8 +40,114 @@
   }
   &__item {
     border-radius: 30px;
-    height: 450px;
+    min-height: 450px;
     display: none;
     background-color: #ddeff5;
+  }
+  .content__item {
+    padding: 20px;
+    .content__item-intro-header {
+      font-size: 4rem;
+    }
+    .content__item-intro {
+      font-size: 2rem;
+      font-family: "Times New Roman", Times, serif;
+      font-weight: bold;
+    }
+    .content__item-skill {
+      font-size: 4rem;
+      width: 150px;
+      border-bottom: 1px solid #ccc;
+    }
+    .content__item-skills {
+      span {
+        font-size: 2rem;
+        font-family: "Times New Roman", Times;
+      }
+    }
+    h3 {
+      font-size: 3rem;
+      font-family: "Times New Roman", Times;
+    }
+  }
+  .content__project {
+    width: 100%;
+    text-align: center;
+    height: 230px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    .content__project-img {
+      width: auto;
+      height: 80%;
+      cursor: pointer;
+    }
+    .content__project-desc {
+      padding-top: 30px;
+      position: absolute;
+      text-decoration: none;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #00000066;
+      display: none;
+      animation: top ease-in-out 0.1s;
+      @keyframes top {
+        from {
+          opacity: 0;
+          transform: translatey(100%);
+        }
+        to {
+          opacity: 1;
+          transform: translatey(0);
+        }
+      }
+      p {
+        color: white;
+        font-weight: normal;
+      }
+      span {
+        color: red;
+        font-weight: bold;
+        display: block;
+        font-size: 1.6rem;
+      }
+    }
+  }
+  .content__project:hover .content__project-desc {
+    display: block;
+  }
+  .target__name {
+    font-weight: bold;
+  }
+  .target__list {
+    list-style: none;
+    font-size: 1.4rem;
+    padding: 4px;
+    margin: 4px;
+  }
+  .love {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .love__name {
+    margin-top: 20px;
+  }
+  .love__game {
+    .love__game-block {
+      width: 100%;
+      .love__game-img {
+        width: 100%;
+        max-height: 300px;
+        border-radius: 10px;
+      }
+    }
+    p {
+      text-align: center;
+      font-size: 2rem;
+      font-weight: bold;
+    }
   }
 }

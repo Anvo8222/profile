@@ -1,0 +1,47 @@
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.header__menu {
+  font-size: 1.6rem !important;
+  background-color: #6d5347;
+  color: #fff;
+  width: 100%;
+  a {
+    color: #fff !important;
+  }
+  li:hover a:hover {
+    cursor: default;
+  }
+  li {
+    padding: 10px 6px;
+    .icon {
+      margin-top: 2px;
+      font-size: 1.2rem;
+      margin-left: 4px;
+    }
+  }
+  .cart {
+    flex: 1;
+    min-width: 120;
+    margin: auto;
+    margin-left: 20px;
+    background-color: #fff;
+    font-size: 1.6rem;
+    cursor: pointer;
+    &__icon {
+      color: brown;
+    }
+    &__quanliti {
+      color: red;
+    }
+  }
+  .cart:hover .cart__cart {
+    color: red;
+  }
+}

@@ -1,0 +1,344 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Áo croptop kiểu siêu đẹp",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/81/92/0a/b18a2da9ecdad3866c5fe0addcc4d09a.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/e1/32af575492cac7b94e934b64978e5daf.jpg",
+                "https://salt.tikicdn.com/cache/100x100/ts/product/16/82/9d/9764bdedf9a0441558b230caf060f830.jpg",
+                "https://salt.tikicdn.com/cache/200x280/ts/product/f9/1f/66/b2fa0065e82b07ab30e4d5783af998ed.jpg",
+                "https://salt.tikicdn.com/cache/w1200/ts/product/1a/cb/e7/d22e85a87d612a5aad449b14d8dac637.jpg",
+                "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/e1/32af575492cac7b94e934b64978e5daf.jpg"
+            ],
+            "price":250000,
+            "promotion":25,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":2,
+            "name":"Áo sơ mi nhung tăm phom rộng 2 màu nâu - đỏ cho nữ ATN678",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/61/42/74/f44a85e07281e382d056112c852c318c.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/f4/3a/51/bf7c4dcb96d1fce63633622c2bce7224.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/7a/1e/e2/917fd2fea676f5774174c66869d05f40.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/64/5e/38/fd5a0eccf75703124f72868b4d7398f6.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/60/34/26/c20e93714964de0b92da3ed3648f5538.jpg"
+            ],
+            "price":211000,
+            "promotion":20,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":3,
+            "name":"áo trễ vai tay dài, áo bánh bèo trễ vai nơ sau lưng 2 màu điệu đà",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/38/4b/23/a757dd37e0ed8368af89de13b8252dc9.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/fa/54/b5/7d23b012a70254716e3e6c440ee60d7e.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/bc/11/34/748c65573839f34510ac5eee4d45c6ed.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/review/06/d3/a7/a86664657fb3a5ba73cb98e037d46050.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/50/54/dc/f01c1f8ba5a1509bad993e8d9bf6e3e9.jpg"
+            ],
+            "price":280000,
+            "promotion":30,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":4,
+            "name":"áo phông cotton thun phản quang hot nhất 40-65kg",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/1c/76/f6/627fc61377b0ae32d1eaf3e599402a46.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/e1/32af575492cac7b94e934b64978e5daf.jpg",
+                "https://salt.tikicdn.com/cache/100x100/ts/product/16/82/9d/9764bdedf9a0441558b230caf060f830.jpg",
+                "https://salt.tikicdn.com/cache/200x280/ts/product/f9/1f/66/b2fa0065e82b07ab30e4d5783af998ed.jpg",
+                "https://salt.tikicdn.com/cache/w1200/ts/product/1a/cb/e7/d22e85a87d612a5aad449b14d8dac637.jpg",
+                "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/e1/32af575492cac7b94e934b64978e5daf.jpg"
+            ],
+            "price":260000,
+            "promotion":25,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":5,
+            "name":"Áo trễ vai bánh bèo tiểu thư, áo trắng trần trễ vai",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/d8/4f/f0/55ad6f5caed5d9d128756112adb852a2.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/f4/3a/51/bf7c4dcb96d1fce63633622c2bce7224.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/7a/1e/e2/917fd2fea676f5774174c66869d05f40.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/64/5e/38/fd5a0eccf75703124f72868b4d7398f6.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/60/34/26/c20e93714964de0b92da3ed3648f5538.jpg"
+            ],
+            "price":320000,
+            "promotion":25,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":6,
+            "name":"Áo sơ mi đũi ngắn tay dáng xuông có size tới 80kg T51",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/6a/69/0d/45702abcb6f883e49c7f16912da13854.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/fa/54/b5/7d23b012a70254716e3e6c440ee60d7e.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/bc/11/34/748c65573839f34510ac5eee4d45c6ed.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/review/06/d3/a7/a86664657fb3a5ba73cb98e037d46050.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/50/54/dc/f01c1f8ba5a1509bad993e8d9bf6e3e9.jpg"
+            ],
+            "price":300000,
+            "promotion":50,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":7,
+            "name":"Áo thun, áo phông ngắn tay form rộng phong cách unisex kiểu áo t-shirt nhuộm loang màu bao xài không phai chống nhăn hiệu quả giặt phơi lên là thẳng tắp",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/ff/7e/de/ce02b9e19d174c096348dcc1c6e74546.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/e1/32af575492cac7b94e934b64978e5daf.jpg",
+                "https://salt.tikicdn.com/cache/100x100/ts/product/16/82/9d/9764bdedf9a0441558b230caf060f830.jpg",
+                "https://salt.tikicdn.com/cache/200x280/ts/product/f9/1f/66/b2fa0065e82b07ab30e4d5783af998ed.jpg",
+                "https://salt.tikicdn.com/cache/w1200/ts/product/1a/cb/e7/d22e85a87d612a5aad449b14d8dac637.jpg",
+                "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/e1/32af575492cac7b94e934b64978e5daf.jpg"
+            ],
+            "price":253000,
+            "promotion":25,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":8,
+            "name":"áo thun croptop nữ, áo croptop dài tay thu đông cổ vuông 3 màu xinh xắn",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/d1/f9/cb/4fc03b5256ac3999ee4029fe5473957e.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/f4/3a/51/bf7c4dcb96d1fce63633622c2bce7224.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/7a/1e/e2/917fd2fea676f5774174c66869d05f40.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/64/5e/38/fd5a0eccf75703124f72868b4d7398f6.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/60/34/26/c20e93714964de0b92da3ed3648f5538.jpg"
+            ],
+            "price":250000,
+            "promotion":23,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":9,
+            "name":"Áo kiểu tay dài phối nút hoạ tiết kẻ sọc cho phái nữ",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/38/e9/15/989ce3cf07ee6cefb745b856382ad9c8.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/fa/54/b5/7d23b012a70254716e3e6c440ee60d7e.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/bc/11/34/748c65573839f34510ac5eee4d45c6ed.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/review/06/d3/a7/a86664657fb3a5ba73cb98e037d46050.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/50/54/dc/f01c1f8ba5a1509bad993e8d9bf6e3e9.jpg"
+            ],
+            "price":212000,
+            "promotion":25,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":10,
+            "name":"Áo sơ mi nữ loang màu ghi đá A499",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/9d/d6/c2/b9f808aa27b9f1db7dfd938ac64e6617.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/e1/32af575492cac7b94e934b64978e5daf.jpg",
+                "https://salt.tikicdn.com/cache/100x100/ts/product/16/82/9d/9764bdedf9a0441558b230caf060f830.jpg",
+                "https://salt.tikicdn.com/cache/200x280/ts/product/f9/1f/66/b2fa0065e82b07ab30e4d5783af998ed.jpg",
+                "https://salt.tikicdn.com/cache/w1200/ts/product/1a/cb/e7/d22e85a87d612a5aad449b14d8dac637.jpg",
+                "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/e1/32af575492cac7b94e934b64978e5daf.jpg"
+            ],
+            "price":280000,
+            "promotion":25,
+            "status":"Hàng có sẵn",
+            "catelogyId":1,
+            "catelogyName":"Áo Nữ"
+        },
+        {
+            "id":11,
+            "name":"Quần Tregging thun nữ cạp cao siêu tôn dáng",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/c2/8a/64/a8efb0b97cbd8bf8dcb0adc207b085a4.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/d6/49/5c/2d374af40f91aef961799cad3fe127b4.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/c5/a3/6f/172742b12afdfd00cf75e4d851b2cf79.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/8d/35/d2/72ce5481c4de848d3785043af2f0840d.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/c2/8a/64/a8efb0b97cbd8bf8dcb0adc207b085a4.jpg"
+            ],
+            "price":268000,
+            "promotion":29,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":12,
+            "name":" Yếm quần  Closet Quần yếm chỉ nổi 2 màu Đen, Trắng, chất kaki dầy mịn đẹp, dây điều chỉnh ",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/69/df/7e/ed7f6d5e125448bcdbe4ae2bb6ce632e.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/a5/4a/ea/319ee690233fdb8a2b9a7c4f6929f714.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/3a/79/23/55ab2c463ed50e5202433a81e84a4beb.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/51/05/44/2bcccee7f372a058bc9181771e4633c4.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/79/d4/f6/e1b29525b356fb4a81ddf3e36769c6dd.jpg"
+            ],
+            "price":420000,
+            "promotion":12,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":13,
+            "name":"Yếm quần kaki nhiều màu có túi trước JEAGO_M14",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/73/be/a1/713dd984d2b1787bb580f619d5405e2e.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/8f/f8/13/8ca4a4259407eb3873e0488b85eb7107.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/29/b3/5b/6a0c072314b6ae91f8660c8f47293a9c.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/3b/22/bf/749e840b7bcec00d50f3ebd4e56ba27a.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/5b/fe/43/395028ed686f75389b08693a278da9a2.jpg"
+            ],
+            "price":280000,
+            "promotion":15,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":14,
+            "name":"Áo croptop kiểu siêu đẹp",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/7e/9c/b0/45cac2176619372dff798e3a36a688b5.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/d6/49/5c/2d374af40f91aef961799cad3fe127b4.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/c5/a3/6f/172742b12afdfd00cf75e4d851b2cf79.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/8d/35/d2/72ce5481c4de848d3785043af2f0840d.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/c2/8a/64/a8efb0b97cbd8bf8dcb0adc207b085a4.jpg"
+            ],
+            "price":298000,
+            "promotion":45,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":15,
+            "name":"Yếm quần ống xuông chỉ nổi siêu dễ thương nguyễn hoa",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/93/40/a0/c02d0f58afbc022244cd639a621e0591.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/a5/4a/ea/319ee690233fdb8a2b9a7c4f6929f714.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/3a/79/23/55ab2c463ed50e5202433a81e84a4beb.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/51/05/44/2bcccee7f372a058bc9181771e4633c4.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/79/d4/f6/e1b29525b356fb4a81ddf3e36769c6dd.jpg"
+            ],
+            "price":233000,
+            "promotion":23,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":16,
+            "name":"Quần jogger nữ, quần bo gấu trơn vải thun cotton da cá",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/7f/96/9e/3056e7aa70b509df7592ac8e29d33a73.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/8f/f8/13/8ca4a4259407eb3873e0488b85eb7107.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/29/b3/5b/6a0c072314b6ae91f8660c8f47293a9c.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/3b/22/bf/749e840b7bcec00d50f3ebd4e56ba27a.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/5b/fe/43/395028ed686f75389b08693a278da9a2.jpg"
+            ],
+            "price":265410,
+            "promotion":15,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":17,
+            "name":"Quần Jogger Thun Unisex 3 SỌC",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/27/5b/71/c9416ebaad069cdc6bb9fbccfe6600d2.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/d6/49/5c/2d374af40f91aef961799cad3fe127b4.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/c5/a3/6f/172742b12afdfd00cf75e4d851b2cf79.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/8d/35/d2/72ce5481c4de848d3785043af2f0840d.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/c2/8a/64/a8efb0b97cbd8bf8dcb0adc207b085a4.jpg"
+            ],
+            "price":212200,
+            "promotion":25,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":18,
+            "name":"Quần tây nữ GUMAC QC01011 cơ bản",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/66/21/a3/ef91be07dbcd16362d7221b1fbed160c.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/a5/4a/ea/319ee690233fdb8a2b9a7c4f6929f714.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/3a/79/23/55ab2c463ed50e5202433a81e84a4beb.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/51/05/44/2bcccee7f372a058bc9181771e4633c4.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/79/d4/f6/e1b29525b356fb4a81ddf3e36769c6dd.jpg"
+            ],
+            "price":456000,
+            "promotion":21,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":19,
+            "name":"Quần Jogger Nỉ Thêu SPUN Ulzzang 1HIT_UNISEX (Ánh Thật)",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/a3/8f/e5/d43c03d5c6d3e5d6a82abcc1bca3ecfe.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/8f/f8/13/8ca4a4259407eb3873e0488b85eb7107.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/29/b3/5b/6a0c072314b6ae91f8660c8f47293a9c.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/3b/22/bf/749e840b7bcec00d50f3ebd4e56ba27a.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/5b/fe/43/395028ed686f75389b08693a278da9a2.jpg"
+            ],
+            "price":250000,
+            "promotion":25,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },
+        {
+            "id":20,
+            "name":"Quần ống rộng nữ cúc trước 1 khuy 100% xịn đẹp vải tuyết mưa chuẩn mốt!",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/4a/94/68/2f1d9d7e82d8375af65a96f5362aa676.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/d6/49/5c/2d374af40f91aef961799cad3fe127b4.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/c5/a3/6f/172742b12afdfd00cf75e4d851b2cf79.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/8d/35/d2/72ce5481c4de848d3785043af2f0840d.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/c2/8a/64/a8efb0b97cbd8bf8dcb0adc207b085a4.jpg"
+            ],
+            "price":350000,
+            "promotion":30,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        },{
+            "id":21,
+            "name":"Quần ống rộng quần ống suông culottes cúc khoá chun lưng dáng lửng kiểu Nhật",
+            "img":"https://salt.tikicdn.com/cache/200x200/ts/product/b3/c3/0d/bca51cf7990984a4633dabb0f653bac6.jpg",
+            "subImg":[
+                "https://salt.tikicdn.com/cache/400x400/ts/product/a5/4a/ea/319ee690233fdb8a2b9a7c4f6929f714.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/3a/79/23/55ab2c463ed50e5202433a81e84a4beb.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/51/05/44/2bcccee7f372a058bc9181771e4633c4.jpg",
+                "https://salt.tikicdn.com/cache/400x400/ts/product/79/d4/f6/e1b29525b356fb4a81ddf3e36769c6dd.jpg"
+            ],
+            "price":125000,
+            "promotion":80,
+            "status":"Hàng có sẵn",
+            "catelogyId":2,
+            "catelogyName":"Quần Nữ"
+        }
+        
+    ]
+}

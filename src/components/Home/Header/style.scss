@@ -1,124 +1,127 @@
-.header {
-  background-color: rgb(221, 239, 245);
-  margin-top: 70px;
+.header.header__profile {
+  margin-top: 20px;
   display: flex;
-  &__avatar {
-    width: 220px;
-    height: 220px;
-    padding: 0 30px;
-    background-color: rgb(49, 196, 247);
-    border-radius: 20px;
-    margin: 20px 0;
-  }
-  &__img {
-    width: 100%;
-    height: 100%;
-    border-radius: 8px;
-  }
-  &__info {
-    width: 100%;
-    h1 {
-      text-align: center;
-      font-size: 4rem;
-      font-weight: bold;
-      opacity: 0.9;
+  background-color: #ddeff5;
+  .header {
+    &__avatar {
+      width: 220px;
+      height: 220px;
+      padding: 0 30px;
+      background-color: rgb(49, 196, 247);
+      border-radius: 20px;
+      margin: 20px 0;
     }
-    &__group {
-      display: flex;
-      justify-content: space-between;
-      &-left {
-        margin-left: 20px;
-        border-right: 1px solid #ccc;
+    &__img {
+      width: 100%;
+      height: 100%;
+      border-radius: 8px;
+    }
+    &__info {
+      width: 100%;
+      h1 {
+        text-align: center;
+        font-size: 4rem;
+        font-weight: bold;
+        opacity: 0.9;
       }
-      h2 {
-        font-size: 3rem;
-      }
-      span {
-        font-weight: 500;
-        font-size: 2rem;
-      }
-      ul {
-        margin-top: 50px;
-        padding: 0;
-        list-style: none;
-        li {
-          display: inline;
-          padding-right: 20px;
-          position: relative;
-          z-index: 2;
-          a {
-            text-decoration: none;
-            font-size: 4rem;
-
-            .icon {
-              color: rgb(90, 88, 88);
-            }
-            .icon:hover {
-              color: rgb(53, 90, 255);
-            }
-          }
-          span {
-            position: absolute;
-            font-size: 1.2rem;
-            max-width: 70px;
-            min-width: 70px;
-            text-align: center;
-            display: block;
-            color: #fff;
-            font-weight: 600;
-            background-color: rgb(53, 90, 255);
-            border-radius: 20px;
-            padding: 4px;
-            top: -64px;
-            right: 4px;
-            display: none;
-          }
-          span:before {
-            content: " ";
-            border-color: rgb(53, 90, 255) transparent transparent transparent;
-            border-style: solid;
-            top: 25px;
-            right: 25px;
-            position: absolute;
-            border-width: 10px;
-          }
-        }
-        @keyframes hoverAcc {
-          from {
-            transform: translatey(100%);
-            opacity: 0;
-          }
-          to {
-            transform: translatey(0);
-            opacity: 1;
-          }
-        }
-        li:hover span {
-          display: block;
-          animation: hoverAcc 0.2s ease-in-out;
-        }
-      }
-      //right
-      &-right {
-        width: 500px;
-        margin: 30px;
+      &__group {
         display: flex;
-        justify-content: space-around;
-      }
-      &-mailPhone {
-        display: block;
-        span {
-          display: block;
-          font-size: 1.6rem;
-          margin-bottom: 20px;
+        justify-content: space-between;
+        &-left {
+          margin-left: 20px;
+          border-right: 1px solid #ccc;
         }
-      }
-      &-dateAddress {
-        display: block;
+        h2 {
+          font-size: 3rem;
+        }
         span {
+          font-weight: 500;
+          font-size: 2rem;
+        }
+        ul {
+          margin-top: 50px;
+          padding: 0;
+          list-style: none;
+          li {
+            display: inline;
+            padding-right: 20px;
+            position: relative;
+            z-index: 2;
+            cursor: pointer;
+            a {
+              text-decoration: none;
+              font-size: 4rem;
+
+              .icon {
+                color: rgb(90, 88, 88);
+              }
+              .icon:hover {
+                color: rgb(53, 90, 255);
+              }
+            }
+            span {
+              position: absolute;
+              font-size: 1.2rem;
+              max-width: 70px;
+              min-width: 70px;
+              text-align: center;
+              display: block;
+              color: #fff;
+              font-weight: 600;
+              background-color: rgb(53, 90, 255);
+              border-radius: 20px;
+              padding: 4px;
+              top: -64px;
+              right: 4px;
+              display: none;
+            }
+            span:before {
+              content: " ";
+              border-color: rgb(53, 90, 255) transparent transparent transparent;
+              border-style: solid;
+              top: 25px;
+              right: 25px;
+              position: absolute;
+              border-width: 10px;
+            }
+          }
+          @keyframes hoverAcc {
+            from {
+              transform: translatey(100%);
+              opacity: 0;
+            }
+            to {
+              transform: translatey(0);
+              opacity: 1;
+            }
+          }
+          li:hover span {
+            display: block;
+            animation: hoverAcc 0.2s ease-in-out;
+          }
+        }
+        //right
+        &-right {
+          width: 500px;
+          margin: 30px;
+          display: flex;
+          justify-content: space-around;
+        }
+        &-mailPhone {
           display: block;
-          font-size: 1.6rem;
-          margin-bottom: 20px;
+          span {
+            display: block;
+            font-size: 1.6rem;
+            margin-bottom: 20px;
+          }
+        }
+        &-dateAddress {
+          display: block;
+          span {
+            display: block;
+            font-size: 1.6rem;
+            margin-bottom: 20px;
+          }
         }
       }
     }
@@ -126,17 +129,16 @@
 }
 @media (min-width: 740px) and (max-width: 1023px) {
   //may tinh bang
-  .header {
+  .header__profile {
     height: 500px;
-    display: block;
-    &__avatar {
-      margin: 0 auto;
-      margin-bottom: 20px;
-
-      &__img {
-        display: block;
-        margin-top: 20px;
-      }
+    display: block !important;
+    .header__avatar {
+      margin: 0 auto !important;
+      margin-bottom: 200px;
+    }
+    &__img {
+      display: block;
+      margin-top: 20px;
     }
     &__info__group {
       &-left {
@@ -179,8 +181,8 @@
 @media (max-width: 739px) {
   //dien thoai
   .header {
-    height: 600px;
-    display: block;
+    max-height: 700px;
+    display: block !important;
     &__info {
       h1 {
         font-size: 3rem;
@@ -189,7 +191,7 @@
     &__avatar {
       width: 180px;
       height: 180px;
-      margin: 0 auto;
+      margin: 0 auto !important;
       margin-bottom: 20px;
 
       &__img {

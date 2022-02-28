@@ -1,0 +1,39 @@
+.form__addToCart {
+  margin-top: 6px;
+  // position: relative;
+  .input__quantyti-message {
+    display: block;
+    color: red;
+    font-size: 1.2rem;
+  }
+  .input__quantyti-submit {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 1.2rem;
+    border-radius: 6px;
+  }
+  // .input__quantyti-cart {
+  //   width: 100px;
+  //   margin-left: 22px;
+  // }
+  // span {
+  //   color: #fff;
+  //   background-color: rgb(78, 76, 76);
+  //   font-size: 1.6rem;
+  //   border-radius: 50%;
+  //   display: inline-block;
+  //   width: 22px;
+  //   height: 22px;
+  //   text-align: center;
+  //   padding-bottom: 4px;
+  //   cursor: pointer;
+  //   position: absolute;
+  // }
+}
+.form__addToCart-size {
+  margin: 10px 0;
+  span {
+    margin-right: 6px;
+  }
+}
