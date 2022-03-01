@@ -96,12 +96,12 @@ function Action(props) {
                             </div>
                             <div className="col-lg-6 col-md-12">
                                 <div className="content__project">
-                                    <img src={music} className="content__project-img" alt="cart" />
+                                    <img src={music} className="content__project-img" alt="music" />
                                     <h2>Music</h2>
 
                                     <a href="https://anvo8222.github.io/appmusic/" target="music" className="content__project-desc">
-                                        <span>Các thư viện sử dụng: <p>Reactjs, Redux toolkit, React Hook Form, React-router</p></span>
-                                        <span>Chức năng: <p>Lọc theo danh mục, tìm kiếm, xem chi tiết sản phẩm, thêm, sửa, xóa giỏ hàng</p></span>
+                                        <span>Luyện tập Javascript</span>
+                                        <span>Chức năng: <p>Tự động lặp, next, prev, pause</p></span>
                                     </a>
                                 </div>
                             </div>

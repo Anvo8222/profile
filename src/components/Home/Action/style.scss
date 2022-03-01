@@ -151,3 +151,24 @@
     }
   }
 }
+@media (max-width: 739px) {
+  //dien thoai
+  .option {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+  }
+  .option__items {
+    padding-left: 0;
+    justify-content: space-between;
+    display: flex;
+    .option__item {
+      width: 80px;
+      height: 80px;
+    }
+  }
+  .content {
+    width: 100%;
+  }
+}
