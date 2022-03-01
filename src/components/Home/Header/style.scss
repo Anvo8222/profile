@@ -188,6 +188,12 @@
         font-size: 3rem;
       }
     }
+    .header__info__group-left {
+      margin-left: 0;
+      li {
+        padding-right: 0;
+      }
+    }
     &__avatar {
       width: 180px;
       height: 180px;
@@ -202,6 +208,19 @@
       }
     }
     &__info__group {
+      ul {
+        li {
+          position: relative !important;
+          span {
+            position: absolute;
+            top: 4px !important;
+            right: -2px !important;
+          }
+        }
+        .icon {
+          font-size: 2.6rem;
+        }
+      }
       display: block;
 
       &-left {
@@ -221,22 +240,8 @@
           font-size: 1.6rem;
           opacity: 0.8;
         }
-        ul {
-          margin-top: 20px;
-          li {
-            span {
-              right: -3px;
-              top: -58px;
-            }
-          }
-        }
       }
 
-      ul {
-        .icon {
-          font-size: 2.6rem;
-        }
-      }
       &-dateAddress {
         padding-left: 10px;
       }
