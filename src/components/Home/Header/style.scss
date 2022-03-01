@@ -189,9 +189,10 @@
       }
     }
     .header__info__group-left {
-      margin-left: 0;
+      margin-left: 0 !important;
       li {
         padding-right: 0;
+        margin-left: 10px;
       }
     }
     &__avatar {
@@ -213,7 +214,6 @@
           position: relative !important;
           span {
             position: absolute;
-            top: 4px !important;
             right: -2px !important;
           }
         }

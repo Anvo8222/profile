@@ -18,13 +18,15 @@ function Header(props) {
   }
     return (
             <div>
+              
+
   <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <div className="container header__menu">
       <Link to="/" className="navbar-brand">Home</Link>
-      <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span className="navbar-toggler-icon" />
-      </button>
-      <div className="collapse navbar-collapse" id="navbarResponsive">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+      <div className="collapse navbar-collapse" id="mynavbar">
         <ul className="navbar-nav ms-auto">
           <li className="nav-item">
             <a className="nav-link" href="#">Áo nữ<i className="icon fa-solid fa-angle-down"></i></a>
@@ -56,7 +58,7 @@ function Header(props) {
       </div>
     </div>
   </nav>
- 
+  
   
 </div>
         
